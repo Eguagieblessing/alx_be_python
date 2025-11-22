@@ -3,6 +3,6 @@ number2 = 5
 add = number1 + number2
 subtract = number1 - number2
 product = number1 * number2
-print("Addition of " + number1 + " and " + number2 + " is " + add)
-print("Subtraction of " + number1 + " and " + number2 + " is " + subtract)
-print("Multiplication of " + number1 + " and " + number2 + " is " + product)
+print("Addition of ", number1, " and ", number2, " is ", add)
+print("Subtraction of ", number1, " and ", number2, " is ", subtract)
+print("Multiplication of ", number1, " and ", number2, " is ", product)
